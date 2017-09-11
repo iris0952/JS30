@@ -1,10 +1,9 @@
 # [JS30] DAY1:JavaScript Drum Kit
 
-:::info
 `` --> ES6 中的模板字串（在～下方的那個符號）
 `${}` --> ES6 template strings
 在模版字串中如果有需要引入變數，則可以是用${ }，來代入變數
-:::
+
 
 ```javascript=
 // 監聽鍵盤按鍵事件，並回傳所按的按鍵為何
